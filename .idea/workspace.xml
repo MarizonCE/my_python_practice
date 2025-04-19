@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0d02941-7164-41a6-89f9-bb300a4fb29c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/2-Schwefel函数优化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/2D反向点原理图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/2动画.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/GAInit动画.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/GA在多峰函数中陷入局部最优的示意图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/三条折线图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/函数平面图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/基本遗传算法动画.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/多次实验数据条形图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/实验数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/表格.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_template/sorting_algorithms/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_template/sorting_algorithms/sorted.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intelligent_algorithm/genetic_algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/intelligent_algorithm/genetic_algorithm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other_practice/0.py" beforeDir="false" afterPath="$PROJECT_DIR$/other_practice/0.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,28 +35,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2-Schwefel函数优化.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2D反向点原理图.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2动画.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GAInit动画.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GA在多峰函数中陷入局部最优的示意图.executor&quot;: &quot;Run&quot;,
-    &quot;Python.genetic_algorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.三条折线图.executor&quot;: &quot;Run&quot;,
-    &quot;Python.函数平面图.executor&quot;: &quot;Run&quot;,
-    &quot;Python.基本遗传算法动画.executor&quot;: &quot;Run&quot;,
-    &quot;Python.多次实验数据条形图.executor&quot;: &quot;Run&quot;,
-    &quot;Python.实验数据.executor&quot;: &quot;Run&quot;,
-    &quot;Python.表格.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.0.executor": "Run",
+    "Python.2-Schwefel函数优化.executor": "Run",
+    "Python.2D反向点原理图.executor": "Run",
+    "Python.2动画.executor": "Run",
+    "Python.GAInit动画.executor": "Run",
+    "Python.GA在多峰函数中陷入局部最优的示意图.executor": "Run",
+    "Python.genetic_algorithm.executor": "Run",
+    "Python.三条折线图.executor": "Run",
+    "Python.函数平面图.executor": "Run",
+    "Python.基本遗传算法动画.executor": "Run",
+    "Python.多次实验数据条形图.executor": "Run",
+    "Python.实验数据.executor": "Run",
+    "Python.表格.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.三条折线图">
     <configuration name="三条折线图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_python_practice" />
