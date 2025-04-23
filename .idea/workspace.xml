@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0d02941-7164-41a6-89f9-bb300a4fb29c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/day001_genetic_algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intelligent_algorithm/day002_genetic_algorithm_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mathematical_modeling/day002_01_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mathematical_modeling/day002_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operations_research/day001_linear_programming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principles_of _automatic_control/day002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_plotting/day001_simple_line_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_plotting/day002_line_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statistics/day001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statistics/day002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triz/day001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triz/day002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/day001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/day002_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/day002_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/day003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm_template/sorting_algorithms/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_template/sorting_algorithms/bubble_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +46,20 @@
     "Python.2动画.executor": "Run",
     "Python.GAInit动画.executor": "Run",
     "Python.GA在多峰函数中陷入局部最优的示意图.executor": "Run",
+    "Python.day001 (1).executor": "Run",
     "Python.day001.executor": "Run",
     "Python.day001_genetic_algorithm.executor": "Run",
     "Python.day001_linear_programming.executor": "Run",
     "Python.day001_simple_line_plot.executor": "Run",
     "Python.day002 (1).executor": "Run",
     "Python.day002.executor": "Run",
+    "Python.day002_01.executor": "Run",
     "Python.day002_01_data.executor": "Run",
     "Python.day002_02.executor": "Run",
     "Python.day002_genetic_algorithm.executor": "Run",
     "Python.day002_genetic_algorithm_01.executor": "Run",
     "Python.day002_line_plot.executor": "Run",
+    "Python.day003.executor": "Run",
     "Python.genetic_algorithm.executor": "Run",
     "Python.三条折线图.executor": "Run",
     "Python.函数平面图.executor": "Run",
@@ -78,29 +74,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.day002 (1)">
-    <configuration name="基本遗传算法动画" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_python_practice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/intelligent_algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intelligent_algorithm/基本遗传算法动画.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day003">
     <configuration name="三条折线图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_python_practice" />
       <option name="ENV_FILES" value="" />
@@ -167,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day001 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_python_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/statistics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/statistics/day001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/day001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day002_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_python_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,33 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/statistics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/statistics/day002.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day002_01_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my_python_practice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mathematical_modeling" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mathematical_modeling/day002_01_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/day002_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,11 +216,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mathematical_modeling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mathematical_modeling/day002_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/day002_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my_python_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/day003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day002 (1)" />
-        <item itemvalue="Python.day002" />
-        <item itemvalue="Python.day001" />
+        <item itemvalue="Python.day003" />
         <item itemvalue="Python.day002_02" />
-        <item itemvalue="Python.day002_01_data" />
+        <item itemvalue="Python.day002_01" />
+        <item itemvalue="Python.day001 (1)" />
+        <item itemvalue="Python.day002 (1)" />
       </list>
     </recent_temporary>
   </component>

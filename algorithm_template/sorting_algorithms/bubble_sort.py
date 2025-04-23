@@ -3,6 +3,11 @@ def bubble_sort(arr: list) -> list:
     Bubble Sort Algorithm
     :param arr:待排序的可比较元素列表
     :return:从小到大排序后的新列表
+
+    算法原理:
+    - 冒泡排序是一种基于交换的排序方法
+    - 每次遍历将当前未排序部分中最大的元素“冒泡”到末尾
+    - 当一轮遍历中未发生任何交换，说明数组已排序，可提前终止
     """
     n = len(arr)
     # 创建 arr 的副本以避免修改原始记录
